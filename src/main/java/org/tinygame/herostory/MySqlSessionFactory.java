@@ -11,6 +11,8 @@ import org.slf4j.LoggerFactory;
  * MySql 会话工厂
  */
 public final class MySqlSessionFactory {
+
+
     /**
      * 日志对象
      */
